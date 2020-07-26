@@ -1,0 +1,7 @@
+# ” œ‰≈‰÷√
+spring:
+  mail:
+    host: smtp.163.com
+    port: 25
+    username: medicialbbs@163.com
+    password: XXXXXXX
